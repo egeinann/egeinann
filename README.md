@@ -20,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egeinann&show_icons=true&locale=en" alt="egeinann" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egeinann&" alt="egeinann" /></p>
+
+
+
+![snake gif](https://github.com/egeinann/egeinann/blob/output/github-contribution-grid-snake.gif)
