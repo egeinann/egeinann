@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/mobile-app-concept_52683-5157.jpg?t=st=1723069215~exp=1723072815~hmac=a906d1eb02c41530f8a0b7ce972e9411cd6abda254d284c2e7fc48e86ef32a6b&w=996)
+![MasterHead](https://img.freepik.com/free-vector/mobile-app-concept_52683-5157.jpg?t=st=1723069215~exp=1723072815~hmac=a906d1eb02c41530f8a0b7ce972e9411cd6abda254d284c2e7fc48e86ef32a6b&w=996)
 <h1 align="center">Hi 👋, I'm Ege INAN</h1>
 <h3 align="center">A passionate flutter developer from Turkey</h3>
 
