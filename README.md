@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/mobile-app-concept_52683-5157.jpg?t=st=1723069215~exp=1723072815~hmac=a906d1eb02c41530f8a0b7ce972e9411cd6abda254d284c2e7fc48e86ef32a6b&w=996)
+![MasterHead](https://img.freepik.com/free-photo/representations-user-experience-interface-design_23-2150038908.jpg?t=st=1723115660~exp=1723119260~hmac=4856e658de6130a1c8363c1b5640be763e6b1ce976ab7e9c25179148f75590c1&w=996)
 <h1 align="center">Hi 👋, I'm Ege INAN</h1>
 <h3 align="center">A passionate flutter developer from Turkey</h3>
 
@@ -15,12 +15,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egeinann&show_icons=true&locale=en&layout=compact" alt="egeinann" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egeinann&show_icons=true&locale=en" alt="egeinann" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egeinann&" alt="egeinann" /></p>
-
-
-
-![snake gif](https://github.com/egeinann/egeinann/blob/output/github-contribution-grid-snake.gif)
+![MasterHead](https://img.freepik.com/free-photo/representations-user-experience-interface-design_23-2150038903.jpg?t=st=1723115662~exp=1723119262~hmac=9bc178cb7dfa72930b1642145062f7430f7704cba0d978a9ce7dcd1724b812b4&w=826)
