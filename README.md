@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hi, As a Flutter developer, I specialize in developing high-quality, user-centric applications using core Flutter frameworks. I create a clean code-oriented and sustainable structure in my applications and follow industry trends to learn application innovations.
-
+-Flutter
+-Firebase
+-State management
+-Optimization and performance management with flutter/Dart
+-SQFlite
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/egedeveloper) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ege-inan-14a26b282) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egeinan12350@gmail.com) 
